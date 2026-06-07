@@ -1,0 +1,3 @@
+.self_healer_config.json
+*.db
+__pycache__/
